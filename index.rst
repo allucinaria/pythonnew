@@ -10,11 +10,11 @@
    :maxdepth: 2
    :caption: Contents:
 
-  hhha哈哈哈
+  1
 
 目录
 ==================
-
+  hhha哈哈哈
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
