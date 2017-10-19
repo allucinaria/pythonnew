@@ -3,16 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to master's documentation!
-==================================
+终于完成了GitHub和Read the Docs的部署
+=========================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+  hhha哈哈哈
 
-
-Indices and tables
+目录
 ==================
 
 * :ref:`genindex`
